@@ -1,30 +1,14 @@
 ---
-title: "RAT (Remote Access Trojan) (W.I.P)"
+title: "Personal Blog"
 description: "Portfolio and blog build with astro."
 date: "Mar 18 2024"
 #demoURL: "https://ddg.com"
-repoURL: "https://github.com/lqjx"
+repoURL: "https://github.com/lqjx/personal-blog"
 ---
 
 ## About the project
-This project is currently in it's early stages of development. For now you can read about the planned
-features.
+Pretty much self-explanatory. This is no crazy work. I just wanted to try out this nice framework
+and got this blog template and adjusted it to my liking.
 
-The quality of the code might be pretty fucking bad, and AV's will probably detect it, but I will
-try really hard to make it as undetected as possible. I already got some plans and will experiment with it.
-
-Also keep in mind that the tool is mainly for learning purposes. If I ever release the source code, <u>don't abuse
-it</u>.
-
-## 📋 Features
-
-- [x] GUI
-- [ ] Builder
-- [ ] Server
-- [ ] Persistence
-- [ ] Reconnaissance
-- [ ] File Explorer
-- [ ] Infostealer
-- [ ] View Desktop
-- [ ] View Camera
-- [ ] Listen to microphone
+I was about to code a blog website from scratch using Svelte, but I really wanted to try out something
+new, so I decided to build it with Astro.
