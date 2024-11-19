@@ -1,8 +1,8 @@
 import type { Site, Metadata, Socials } from "@types";
 
 export const SITE: Site = {
-  NAME: "daydream",
-  EMAIL: "dev@vxdev.xyz",
+  NAME: "japanware",
+  EMAIL: "dev@japanware.dev",
   NUM_POSTS_ON_HOMEPAGE: 3,
   NUM_WORKS_ON_HOMEPAGE: 2,
   NUM_PROJECTS_ON_HOMEPAGE: 3,
@@ -10,7 +10,7 @@ export const SITE: Site = {
 
 export const HOME: Metadata = {
   TITLE: "Home",
-  DESCRIPTION: "Hello! I am daydream. This is my blog.",
+  DESCRIPTION: "Hello! I am japanware. This is my blog.",
 };
 
 export const BLOG: Metadata = {
@@ -35,10 +35,10 @@ export const SOCIALS: Socials = [
   },
   { 
     NAME: "Github",
-    HREF: "https://github.com/lqjx"
+    HREF: "https://github.com/japanware"
   },
   { 
     NAME: "Discord",
-    HREF: "@vxcs",
+    HREF: "@japanware",
   }
 ];

@@ -3,7 +3,7 @@ title: "Personal Blog"
 description: "Portfolio and blog build with astro."
 date: "Mar 18 2024"
 #demoURL: "https://ddg.com"
-repoURL: "https://github.com/lqjx/personal-blog"
+repoURL: "https://github.com/japanware"
 ---
 
 ## About the project
