@@ -22,12 +22,13 @@ https://crackmes.one/<br/>
 https://om.malcore.io/<br/>
 https://forum.tuts4you.com/<br/>
 https://forum.exetools.com/index.php<br/>
-[https://www.blackhat.com/presentations/bh-usa-07/Yason/Whitepaper/bh-usa-07-yason-WP.pdf](https://www.blackhat.com/presentations/bh-usa-07/Yason/Whitepaper/bh-usa-07-yason-WP.pdf "https://www.blackhat.com/presentations/bh-usa-07/Yason/Whitepaper/bh-usa-07-yason-WP.pdf")
+https://deluks2006.github.io/<br/>
+[https://www.blackhat.com/presentations/bh-usa-07/Yason/Whitepaper/bh-usa-07-yason-WP.pdf](https://www.blackhat.com/presentations/bh-usa-07/Yason/Whitepaper/bh-usa-07-yason-WP.pdf "https://www.blackhat.com/presentations/bh-usa-07/Yason/Whitepaper/bh-usa-07-yason-WP.pdf")<br/>
+https://01xyris.github.io/
 
 
 **Books:**<br/>
 https://nostarch.com/assembly2.htm<br/>
-https://www.oreilly.com/library/view/reversing-secrets-of/9780764574818/ (Pretty old book, but still recommended)
 
 ---
 ## Cryptography
