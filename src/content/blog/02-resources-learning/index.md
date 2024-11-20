@@ -1,6 +1,6 @@
 ---
 title: "Resources for Learning Reversing, Malware Development and more"
-description: "It's me. I am real."
+description: "Happy learning!"
 date: "November 20 2024"
 ---
 
